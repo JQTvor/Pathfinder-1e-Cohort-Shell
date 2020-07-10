@@ -1,0 +1,7 @@
+D:\Users\Jonny\source\repos\Pathfinder 1e\NPC Generator\Cohort Generator\Cohort Generator\bin\Debug\Cohort Generator.exe.config
+D:\Users\Jonny\source\repos\Pathfinder 1e\NPC Generator\Cohort Generator\Cohort Generator\bin\Debug\Cohort Generator.exe
+D:\Users\Jonny\source\repos\Pathfinder 1e\NPC Generator\Cohort Generator\Cohort Generator\bin\Debug\Cohort Generator.pdb
+D:\Users\Jonny\source\repos\Pathfinder 1e\NPC Generator\Cohort Generator\Cohort Generator\obj\Debug\Cohort Generator.csprojAssemblyReference.cache
+D:\Users\Jonny\source\repos\Pathfinder 1e\NPC Generator\Cohort Generator\Cohort Generator\obj\Debug\Cohort Generator.csproj.CoreCompileInputs.cache
+D:\Users\Jonny\source\repos\Pathfinder 1e\NPC Generator\Cohort Generator\Cohort Generator\obj\Debug\Cohort Generator.exe
+D:\Users\Jonny\source\repos\Pathfinder 1e\NPC Generator\Cohort Generator\Cohort Generator\obj\Debug\Cohort Generator.pdb
